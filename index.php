@@ -6,5 +6,5 @@ echo "branch 1.0";
 echo "feature bar 1";
 echo "feature bar 2";
 
-echo "feature_foo_1.0";
+echo "Feature_foo_1.0";
 
